@@ -13,7 +13,6 @@
 
 @property (nonatomic) UIColor *backgroundColor;
 @property (nonatomic) UIColor *tintColor;
-@property (nonatomic) BOOL hasChanged;
 
 
 + (AppColors*) appColors;

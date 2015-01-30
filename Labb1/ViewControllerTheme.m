@@ -44,9 +44,7 @@
     } else {
         [AppColors appColors].tintColor = setColor;
         self.view.tintColor = setColor;
-    }
-    
-    [AppColors appColors].hasChanged = YES;
+    }    
     
 }
 

@@ -30,7 +30,6 @@
     
     self.view.backgroundColor = [AppColors appColors].backgroundColor;
     self.view.tintColor = [AppColors appColors].tintColor;
-    [AppColors appColors].hasChanged = NO;
     // Do any additional setup after loading the view.
     
     
